@@ -5,3 +5,4 @@ pandas
 langid
 pycountry
 deep-translator
+sentencepiece
