@@ -2,4 +2,6 @@ streamlit
 transformers
 torch
 pandas
-langdetect
+langid
+pycountry
+deep-translator
